@@ -13,4 +13,12 @@
 6. 按下「計算」即顯示試算結果
 7. 按下「清除」可重置所有欄位
 
+## 計算公式
+月利率 r = 年利率 / 12 / 100
+
+每月應繳金額（等額本息）：
+M = 貸款額 × r × (1+r)^n / ((1+r)^n - 1)
+
+參考來源：[台灣銀行房貸試算](https://www.bot.com.tw/tw/personal/loan/houseloan/calc)
+
 <img width="802" height="481" alt="image" src="https://github.com/user-attachments/assets/450b05f5-e2b2-4881-9e22-acf4984877e6" />
